@@ -69,26 +69,37 @@ Security assurance: Because these apps have to get the approval of the app store
 
 Native apps work out better for developers, who are provided the SDK and all other tools to create the app with much more ease.
 
-**_The loopholes of Native Apps (cons)_**
+**_<font color="yellow">The loopholes of Native Apps (cons)</font>_**
 
-Expensive: Native apps tend to be a more expensive proposition to the developer. This is especially the case for developers who would like their app to be compatible with multiple mobile devices and platforms.
+<font color="lightgreen">Expensive: Native apps tend to be a more expensive proposition to the developer. This is especially the case for developers who would like their app to be compatible with multiple mobile devices and platforms.
 The cost of app maintenance and app updating is also higher for native apps, especially if this app supports more than one mobile platform.
+
 Developing process is too long: The process of getting the app approved at the app store can prove to be long and tedious for the developer and need not always result in success. Also, there is no guarantee that the app becomes instantly popular with users.
-Hard to maintain: Users of different mobile devices may be using different versions of the app, which makes it difficult for the developer to maintain and offer support.
+Hard to maintain: Users of different mobile devices may be using different versions of the app, which makes it difficult for the developer to maintain and offer support.</font>
 
-**_Advantages of Web Apps (pros)_**
+**_<font color="yellow">Advantages of Web Apps (pros)</font>_**
 
-Easier to maintain: Web apps are much easier to maintain, as they have a common code base across multiple mobile platforms.
+<font color="lightgreen">Easier to maintain: Web apps are much easier to maintain, as they have a common code base across multiple mobile platforms.
+
 Compatibility: Web apps can be manipulated so as to be made compatible with any older mobile device.
+
 Developers are not needed: Web apps do not require developers to submit their app to any app store for approval. Of course, the Apple App Store does feature a list of Web apps.
+
 Developing process is shorter: Since Web apps do not need to be approved by the app marketplace; they can be released at any time and in any form, as per the developer’s preferences.
+
 Users need not bother with visiting an app store to download Web apps or updating the same on their mobile devices.
-Disadvantages of Web Apps (cons)
-Limited scope: Mobile Web apps only have limited scope as far as accessing a mobile device’s features is concerned.
+</font>
+
+**_<font color="yellow">Disadvantages of Web Apps (cons)</font>_**
+
+<font color="lightgreen">Limited scope: Mobile Web apps only have limited scope as far as accessing a mobile device’s features is concerned.
+ 
 Expensive: Web apps that support multiple mobile browsers can prove to be an expensive proposition for developers, as it raises the costs of developing and maintaining them.
+
 Difficult to maintain a record: Different users work with different mobile browsers. This can make it difficult for you to maintain a record of their usage patterns and also provide support for all of them.
-Difficultto discover: Users may sometimes find it difficult to discover a Web app, as it is not systematically listed in any app store.
-Not secure: Since there is no regularized quality control system for Web apps, users may not always be guaranteed safety and security of the app.
+
+Difficult to discover: Users may sometimes find it difficult to discover a Web app, as it is not systematically listed in any app store.
+Not secure: Since there is no regularized quality control system for Web apps, users may not always be guaranteed safety and security of the app.</font>
 
 REFERENCES
 https://www.lifewire.com/native-apps-vs-web-apps-2373133
