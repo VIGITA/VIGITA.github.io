@@ -12,17 +12,17 @@
 Information architecture (IA) is the structural design of shared information environments; the art and science of organizing and labelling websites, intranets, online communities and software to support usability and findability; and an emerging community of practice focused on bringing principles of design and architecture to the digital landscape.
 
 Information architectures (IAs) are in the websites we use, the apps and software we download, the printed materials we encounter, and even the physical places we spend time in. 
-A good IA helps people to understand their surroundings and find what they’re looking for – in the real world as well as online. Practicing information architecture involves facilitating the people and organizations we work with to consider their structures and language thoughtfully.</font>
+A good IA helps people to understand their surroundings and find what they’re looking for – in the real world as well as online. Practicing information architecture involves facilitating the people and organizations we work with to consider their structures and language thoughtfully.</font><br>
 
-**(b)	Information Architecture different from desktop**
-1.	Only what is important on mobile - The mobile app/site should only contain what is important to the user when using his/hers mobile phone. Some apps/sites are used more on the go (maps, phone directories) and some are used more inside in the house (TV show/movie info). You have to research your target users to understand the context in which they'll use your mobile service, and include only the relevant content for that context.
+**<font color="yellow">(b)	Information Architecture different from desktop</font>**
+<font color="lightgreen">1.	Only what is important on mobile - The mobile app/site should only contain what is important to the user when using his/hers mobile phone. Some apps/sites are used more on the go (maps, phone directories) and some are used more inside in the house (TV show/movie info). You have to research your target users to understand the context in which they will use your mobile service, and include only the relevant content for that context.
 2.	Simpler, smaller content - Research shows that users read less and understand less on mobile. This means you have to rewrite long and complicated content from the desktop site to make it shorter and more understandable. This also means that any secondary content (i.e. stuff that's not absolutely important for the user's current screen) should be differed to lower-level screens. 
-3.	Simpler navigation menus - Menus can't have too many options. Tabbed menus usually contain 5 tabs at most.
+3.	Simpler navigation menus - Menus can't have too many options. Tabbed menus usually contain 5 tabs at most.</font><br>
 
 
-**c. The elements of successful UX design**
+**<font color="yellow">(c) The elements of successful UX design</font>**
 
-In then digital design agency, we find that everyone works within the same broad parameters that help to focus the developmental stages of a site launch. We identify these key areas below as: usability, desirability, adoptability, and value. 
+<font color="lightgreen">In then digital design agency, we find that everyone works within the same broad parameters that help to focus the developmental stages of a site launch. We identify these key areas below as: usability, desirability, adoptability, and value. 
 1) Value: Offering value to your visitors is the key to converting clicks into sales, and retaining a loyal customer base. It is the point at which the products you offer and the services your customers require will intersect. 
 Understanding the value of your web presence is a matter of knowing your audience: researching demographics as well as what brings traffic to your page, and where that traffic arrives from, are all useful considerations when defining your value.
 2) Usability: Definitely a poorly designed website loses its customers to a more reliable rival. The other side of the coin is a site that is so well structured that it influences the way its users interact and behave. 
@@ -34,12 +34,12 @@ Adoptability is the element that discusses the ease with which your content can 
 A modern, dynamic user interface will keep your web presence looking contemporary and feeling relevant.
 For examples,a secure and credible store front for retail provides confidence in sales. A clear and coherent brand identity lets your reputation and prominence to grow organically amongst your user base. 
 Conclusion
-The elements of user mobile UX design address the main desires and concerns of one’s core audience, from the earliest stages of development. A sound grasp of these essential elements will allow even the most ambitious design projects to progress more efficiently, and with a greater sense of focus.
+The elements of user mobile UX design address the main desires and concerns of one’s core audience, from the earliest stages of development. A sound grasp of these essential elements will allow even the most ambitious design projects to progress more efficiently, and with a greater sense of focus.</font><br>
 
 
-**(d)	Native apps and Web apps**
+**<font color="yellow">(d)	Native apps and Web apps</font>**
 
-A Native App is an app developed essentially for one particular mobile device and is installed directly onto the device itself. Users of native apps usually download them via app stores online or the app marketplace, such as the Apple App Store, the Google Play store and so on. An example of a native app is the Camera.
+<font color="lightgreen">A Native App is an app developed essentially for one particular mobile device and is installed directly onto the device itself. Users of native apps usually download them via app stores online or the app marketplace, such as the Apple App Store, the Google Play store and so on. An example of a native app is the Camera.
 A Web App, on the other hand, are basically Internet-enabled apps that are accessible via the mobile device’s Web browser.
 They need not be downloaded onto the user’s mobile device in order to be accessed. The Safari browser is a good example of a mobile Web app.
 From the above definitions, native apps are ideal for the following reasons:
@@ -47,12 +47,12 @@ i.	They do not require connection to the Internet, to use them.
 ii.	They are free to use, they do not require charges, or licenses.
 iii.	They do not require periodic updates on the resident device.
 iv.	There is no exposure to security risks or threats when using them.
-v.	Native apps are often easier to operate, as they are developed to suit the taste of their local users.
+v.	Native apps are often easier to operate, as they are developed to suit the taste of their local users.</font><br>
 
 
-**(e)	Pros and cons of native apps and web apps**
+**<font color="yellow">(e)	Pros and cons of native apps and web apps</font>**
 
-**_Advantages of Native Apps (pros)_**
+**_<font color="lightgreen">Advantages of Native Apps (pros)</font>_**
 
 Easier to operate: Since native apps work with the device’s built-in features, they are easier to work with and also perform faster on the device.
 
