@@ -18,7 +18,10 @@ A good IA helps people to understand their surroundings and find what they’re 
 1.	Only what is important on mobile - The mobile app/site should only contain what is important to the user when using his/hers mobile phone. Some apps/sites are used more on the go (maps, phone directories) and some are used more inside in the house (TV show/movie info). You have to research your target users to understand the context in which they'll use your mobile service, and include only the relevant content for that context.
 2.	Simpler, smaller content - Research shows that users read less and understand less on mobile. This means you have to rewrite long and complicated content from the desktop site to make it shorter and more understandable. This also means that any secondary content (i.e. stuff that's not absolutely important for the user's current screen) should be differed to lower-level screens. 
 3.	Simpler navigation menus - Menus can't have too many options. Tabbed menus usually contain 5 tabs at most.
-c. The elements of successful UX design
+
+
+**c. The elements of successful UX design**
+
 In then digital design agency, we find that everyone works within the same broad parameters that help to focus the developmental stages of a site launch. We identify these key areas below as: usability, desirability, adoptability, and value. 
 1) Value: Offering value to your visitors is the key to converting clicks into sales, and retaining a loyal customer base. It is the point at which the products you offer and the services your customers require will intersect. 
 Understanding the value of your web presence is a matter of knowing your audience: researching demographics as well as what brings traffic to your page, and where that traffic arrives from, are all useful considerations when defining your value.
@@ -32,7 +35,11 @@ A modern, dynamic user interface will keep your web presence looking contemporar
 For examples,a secure and credible store front for retail provides confidence in sales. A clear and coherent brand identity lets your reputation and prominence to grow organically amongst your user base. 
 Conclusion
 The elements of user mobile UX design address the main desires and concerns of one’s core audience, from the earliest stages of development. A sound grasp of these essential elements will allow even the most ambitious design projects to progress more efficiently, and with a greater sense of focus.
-(d)	A Native App is an app developed essentially for one particular mobile device and is installed directly onto the device itself. Users of native apps usually download them via app stores online or the app marketplace, such as the Apple App Store, the Google Play store and so on. An example of a native app is the Camera.
+
+
+**(d)	Native apps and Web apps**
+
+A Native App is an app developed essentially for one particular mobile device and is installed directly onto the device itself. Users of native apps usually download them via app stores online or the app marketplace, such as the Apple App Store, the Google Play store and so on. An example of a native app is the Camera.
 A Web App, on the other hand, are basically Internet-enabled apps that are accessible via the mobile device’s Web browser.
 They need not be downloaded onto the user’s mobile device in order to be accessed. The Safari browser is a good example of a mobile Web app.
 From the above definitions, native apps are ideal for the following reasons:
@@ -41,13 +48,22 @@ ii.	They are free to use, they do not require charges, or licenses.
 iii.	They do not require periodic updates on the resident device.
 iv.	There is no exposure to security risks or threats when using them.
 v.	Native apps are often easier to operate, as they are developed to suit the taste of their local users.
-(e)	Pros and cons of native apps and web apps
-Advantages of Native Apps (pros)
+
+
+**(e)	Pros and cons of native apps and web apps**
+
+**_Advantages of Native Apps (pros)_**
+
 Easier to operate: Since native apps work with the device’s built-in features, they are easier to work with and also perform faster on the device.
+
 Easier to download: Native apps get full support from the concerned app stores and marketplaces. Users can easily find and download apps of their choice from these stores.
+
 Security assurance: Because these apps have to get the approval of the app store they are intended for, the user can be assured of complete safety and security of the app.
+
 Native apps work out better for developers, who are provided the SDK and all other tools to create the app with much more ease.
-The loopholes of Native Apps (cons)
+
+**_The loopholes of Native Apps (cons)_**
+
 Expensive: Native apps tend to be a more expensive proposition to the developer. This is especially the case for developers who would like their app to be compatible with multiple mobile devices and platforms.
 The cost of app maintenance and app updating is also higher for native apps, especially if this app supports more than one mobile platform.
 Developing process is too long: The process of getting the app approved at the app store can prove to be long and tedious for the developer and need not always result in success. Also, there is no guarantee that the app becomes instantly popular with users.
