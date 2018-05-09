@@ -108,14 +108,12 @@ Difficult to discover: Users may sometimes find it difficult to discover a Web a
 Not secure: Since there is no regularized quality control system for Web apps, users may not always be guaranteed safety and security of the app.</font><br><br><br><br>
 
 
+[More on Web & Native Apps](http://img.youtube.com/vi/Ns-JS4amlTc/0.jpg)](http://www.youtube.com/watch?v=Ns-JS4amlTc)
 
 
-[![More on Web & Native Apps](http://img.youtube.com/vi/Ns-JS4amlTc/0.jpg)](http://www.youtube.com/watch?v=Ns-JS4amlTc)
+[Also have a look at Kakungulu's github account]()
 
 
 
-
-[Link](url) and ![Image](src)
-```
 
 
