@@ -2,13 +2,11 @@
 
 
 
-
-
-**<h1>a. What is Information Architecture?**
+**<h1>a. What is Information Architecture?</h1>**
 Information architecture is the practice of deciding how to structure and organize informational content.
 Information architecture (IA) is the structural design of shared information environments; the art and science of organizing and labelling websites, intranets, online communities and software to support usability and findability; and an emerging community of practice focused on bringing principles of design and architecture to the digital landscape.
 Information architectures (IAs) are in the websites we use, the apps and software we download, the printed materials we encounter, and even the physical places we spend time in. 
-A good IA helps people to understand their surroundings and find what they’re looking for – in the real world as well as online. Practicing information architecture involves facilitating the people and organizations we work with to consider their structures and language thoughtfully.
+A good IA helps people to understand their surroundings and find what they’re looking for – in the real world as well as online. Practicing information architecture involves facilitating the people and organizations we work with to consider their structures and language thoughtfully.<br>
 
 **(b)	Information Architecture different from desktop**
 1.	Only what is important on mobile - The mobile app/site should only contain what is important to the user when using his/hers mobile phone. Some apps/sites are used more on the go (maps, phone directories) and some are used more inside in the house (TV show/movie info). You have to research your target users to understand the context in which they'll use your mobile service, and include only the relevant content for that context.
