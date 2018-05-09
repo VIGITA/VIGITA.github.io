@@ -6,7 +6,7 @@
  </center></font>
 
 
-**a. What is Information Architecture?**
+**<font color="yellow">(a) What is Information Architecture?</font>**
 
 Information architecture is the practice of deciding how to structure and organize informational content.
 Information architecture (IA) is the structural design of shared information environments; the art and science of organizing and labelling websites, intranets, online communities and software to support usability and findability; and an emerging community of practice focused on bringing principles of design and architecture to the digital landscape.
