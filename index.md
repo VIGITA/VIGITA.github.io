@@ -1,4 +1,4 @@
-<font color="blue">## WELCOME TO SITE KAKUNGULU</font>
+<font color="blue" size="30px">## WELCOME TO SITE KAKUNGULU</font>
 
 
 
@@ -59,6 +59,7 @@ Expensive: Web apps that support multiple mobile browsers can prove to be an exp
 Difficult to maintain a record: Different users work with different mobile browsers. This can make it difficult for you to maintain a record of their usage patterns and also provide support for all of them.
 Difficultto discover: Users may sometimes find it difficult to discover a Web app, as it is not systematically listed in any app store.
 Not secure: Since there is no regularized quality control system for Web apps, users may not always be guaranteed safety and security of the app.
+
 REFERENCES
 https://www.lifewire.com/native-apps-vs-web-apps-2373133
 
