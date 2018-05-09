@@ -57,7 +57,7 @@ From the above definitions, native apps are ideal for the following reasons:<br>
 <li>They are free to use, they do not require charges, or licenses.<br>
 <li>They do not require periodic updates on the resident device.<br>
 <li>There is no exposure to security risks or threats when using them.<br>
-<li>Native apps are often easier to operate, as they are developed to suit the taste of their local users.</font><br><br>
+<li>Native apps are often easier to operate, as they are developed to suit the taste of their local users.</ol></font><br><br>
 
 
 **<font color="yellow">(e)	Pros and cons of native apps and web apps</font>**
