@@ -1,7 +1,7 @@
 <font color="yellow" size="30px"><center>WELCOME TO SITE KAKUNGULU</center></font>
 
 <font color="orange" size="5px"><center>GROUP PRESENTATION</center></font>
-<font color="yellow" size="6px">GROUP MEMBERS</font>
+<font color="yellow" size="6px"><center>GROUP MEMBERS</center></font>
 <font color="lightgreen" size="5px"><center>KAKUNGULU BIRUNGI<br>MAGEZI HILLARY<br>BATALINGAYA BEST<br> ...
  </center></font>
 
