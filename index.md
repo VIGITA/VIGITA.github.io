@@ -10,7 +10,7 @@ Information architecture (IA) is the structural design of shared information env
 Information architectures (IAs) are in the websites we use, the apps and software we download, the printed materials we encounter, and even the physical places we spend time in. 
 A good IA helps people to understand their surroundings and find what they’re looking for – in the real world as well as online. Practicing information architecture involves facilitating the people and organizations we work with to consider their structures and language thoughtfully.
 
-###**(b)	Information Architecture different from desktop**
+###**(b)	Information Architecture different from desktop**###
 1.	Only what is important on mobile - The mobile app/site should only contain what is important to the user when using his/hers mobile phone. Some apps/sites are used more on the go (maps, phone directories) and some are used more inside in the house (TV show/movie info). You have to research your target users to understand the context in which they'll use your mobile service, and include only the relevant content for that context.
 2.	Simpler, smaller content - Research shows that users read less and understand less on mobile. This means you have to rewrite long and complicated content from the desktop site to make it shorter and more understandable. This also means that any secondary content (i.e. stuff that's not absolutely important for the user's current screen) should be differed to lower-level screens. 
 3.	Simpler navigation menus - Menus can't have too many options. Tabbed menus usually contain 5 tabs at most.
