@@ -25,15 +25,20 @@ A good IA helps people to understand their surroundings and find what they’re 
 <font color="lightgreen">In then digital design agency, we find that everyone works within the same broad parameters that help to focus the developmental stages of a site launch. We identify these key areas below as: usability, desirability, adoptability, and value. 
 1) Value: Offering value to your visitors is the key to converting clicks into sales, and retaining a loyal customer base. It is the point at which the products you offer and the services your customers require will intersect. 
 Understanding the value of your web presence is a matter of knowing your audience: researching demographics as well as what brings traffic to your page, and where that traffic arrives from, are all useful considerations when defining your value.
+ 
 2) Usability: Definitely a poorly designed website loses its customers to a more reliable rival. The other side of the coin is a site that is so well structured that it influences the way its users interact and behave. 
 Take an example: Facebook changed the role of social media with its clear, ordered presentation of user-generated content, and its provision of additional services like private messaging. Rather than creating a profile page-orientated social media platform, the site instead became a one-stop shop for communication, and today many of its users rely on it as their primary method of staying in contact with friends and family.
+
 3) Adoptability: A poorly-designed site may damage the desirability and the value of your service.
 Adoptability is the element that discusses the ease with which your content can be accessed by new and returning users. Along with search engine optimization (SEO) and bandwidth issues, an increasingly mobile friendly web means that organizations are realizing that their web presence requires a mobile-compatible layout too.
- If your user experience is one of mobile interaction, then a site that is built from the ground up on these principles is a site that encourages the widest potential audience to stay within its pages.
+
+If your user experience is one of mobile interaction, then a site that is built from the ground up on these principles is a site that encourages the widest potential audience to stay within its pages.
+
 4) Desirability:This is the magical final ingredient: a philosopher’s stone for web designers, it is impossible to attribute it to any single element of either content or design. 
 A modern, dynamic user interface will keep your web presence looking contemporary and feeling relevant.
 For examples,a secure and credible store front for retail provides confidence in sales. A clear and coherent brand identity lets your reputation and prominence to grow organically amongst your user base. 
-Conclusion
+
+_<font color="lightgreen">Conclusion</font>_
 The elements of user mobile UX design address the main desires and concerns of one’s core audience, from the earliest stages of development. A sound grasp of these essential elements will allow even the most ambitious design projects to progress more efficiently, and with a greater sense of focus.</font><br>
 
 
@@ -68,7 +73,9 @@ Expensive: Native apps tend to be a more expensive proposition to the developer.
 The cost of app maintenance and app updating is also higher for native apps, especially if this app supports more than one mobile platform.
 Developing process is too long: The process of getting the app approved at the app store can prove to be long and tedious for the developer and need not always result in success. Also, there is no guarantee that the app becomes instantly popular with users.
 Hard to maintain: Users of different mobile devices may be using different versions of the app, which makes it difficult for the developer to maintain and offer support.
-Advantages of Web Apps (pros)
+
+**_Advantages of Web Apps (pros)_**
+
 Easier to maintain: Web apps are much easier to maintain, as they have a common code base across multiple mobile platforms.
 Compatibility: Web apps can be manipulated so as to be made compatible with any older mobile device.
 Developers are not needed: Web apps do not require developers to submit their app to any app store for approval. Of course, the Apple App Store does feature a list of Web apps.
