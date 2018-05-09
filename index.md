@@ -110,7 +110,7 @@ Not secure: Since there is no regularized quality control system for Web apps, u
 
 
 
-[More on Web & Native Apps](http://img.youtube.com/vi/Ns-JS4amlTc/0.jpg)](http://www.youtube.com/watch?v=Ns-JS4amlTc)
+[![More on Web & Native Apps](http://img.youtube.com/vi/Ns-JS4amlTc/0.jpg)](http://www.youtube.com/watch?v=Ns-JS4amlTc)
 
 
 [Also have a look at Kakungulu's github account](https://github.com/VIGITA/VIGITA.github.io/blob/master/index.md)
