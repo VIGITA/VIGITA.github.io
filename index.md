@@ -107,13 +107,13 @@ Difficult to maintain a record: Different users work with different mobile brows
 Difficult to discover: Users may sometimes find it difficult to discover a Web app, as it is not systematically listed in any app store.
 Not secure: Since there is no regularized quality control system for Web apps, users may not always be guaranteed safety and security of the app.</font><br><br><br><br>
 
-
+Follow the links below to videos on more about Web and Native apps<br><br>
 
 
 [![More on Web & Native Apps](http://img.youtube.com/vi/Ns-JS4amlTc/0.jpg)](http://www.youtube.com/watch?v=Ns-JS4amlTc)
 
 
-[Also have a look at Kakungulu's github account](https://github.com/VIGITA/VIGITA.github.io/blob/master/index.md)
+[![Also have a look at more other videos](http://img.youtube.com/vi/ZikVtdopsfY/0.jpg)](http://www.youtube.com/watch?v=ZikVtdopsfY)
 
 
 
