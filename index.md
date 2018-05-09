@@ -20,7 +20,7 @@ A good IA helps people to understand their surroundings and find what they’re 
 2.	Simpler, smaller content - Research shows that users read less and understand less on mobile. This means you have to rewrite long and complicated content from the desktop site to make it shorter and more understandable. This also means that any secondary content (i.e. stuff that's not absolutely important for the user's current screen) should be differed to lower-level screens. <br><br>
 
 3.	Simpler navigation menus - Menus can't have too many options. Tabbed menus usually contain 5 tabs at most.</font><br><br>
-                            ---
+                          
 
 
 **<font color="yellow">(c) The elements of successful UX design</font>**
@@ -41,7 +41,7 @@ If your user experience is one of mobile interaction, then a site that is built 
 4) Desirability:This is the magical final ingredient: a philosopher’s stone for web designers, it is impossible to attribute it to any single element of either content or design. 
 A modern, dynamic user interface will keep your web presence looking contemporary and feeling relevant.
 For examples,a secure and credible store front for retail provides confidence in sales. A clear and coherent brand identity lets your reputation and prominence to grow organically amongst your user base. <br><br>
----
+
 
 _<font color="lightgreen">Conclusion</font>_
 The elements of user mobile UX design address the main desires and concerns of one’s core audience, from the earliest stages of development. A sound grasp of these essential elements will allow even the most ambitious design projects to progress more efficiently, and with a greater sense of focus.</font><br><br>
@@ -105,16 +105,15 @@ Expensive: Web apps that support multiple mobile browsers can prove to be an exp
 Difficult to maintain a record: Different users work with different mobile browsers. This can make it difficult for you to maintain a record of their usage patterns and also provide support for all of them.<br><br>
 
 Difficult to discover: Users may sometimes find it difficult to discover a Web app, as it is not systematically listed in any app store.
-Not secure: Since there is no regularized quality control system for Web apps, users may not always be guaranteed safety and security of the app.</font><br><br>
----
-
-REFERENCE
-_https://www.lifewire.com/native-apps-vs-web-apps-2373133_
-
-Desktop Central Architecture. ManageEngine DesktopCentral is a Web-based Windows software application fordesktop administration. This application enables administrators to manage computers effectively, from a central point.
+Not secure: Since there is no regularized quality control system for Web apps, users may not always be guaranteed safety and security of the app.</font><br><br><br><br>
 
 
-**Bold** and _Italic_ and `Code` text
+
+
+[![More on Web & Native Apps](http://img.youtube.com/vi/Ns-JS4amlTc/0.jpg)](http://www.youtube.com/watch?v=Ns-JS4amlTc)
+
+
+
 
 [Link](url) and ![Image](src)
 ```
