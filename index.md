@@ -15,11 +15,12 @@ Information architectures (IAs) are in the websites we use, the apps and softwar
 A good IA helps people to understand their surroundings and find what they’re looking for – in the real world as well as online. Practicing information architecture involves facilitating the people and organizations we work with to consider their structures and language thoughtfully.</font><br><br>
 
 **<font color="yellow">(b)	Information Architecture different from desktop</font>**
-<font color="lightgreen">1.	Only what is important on mobile - The mobile app/site should only contain what is important to the user when using his/hers mobile phone. Some apps/sites are used more on the go (maps, phone directories) and some are used more inside in the house (TV show/movie info). You have to research your target users to understand the context in which they will use your mobile service, and include only the relevant content for that context.
+<font color="lightgreen">1.	Only what is important on mobile - The mobile app/site should only contain what is important to the user when using his/hers mobile phone. Some apps/sites are used more on the go (maps, phone directories) and some are used more inside in the house (TV show/movie info). You have to research your target users to understand the context in which they will use your mobile service, and include only the relevant content for that context.<br>
  
-2.	Simpler, smaller content - Research shows that users read less and understand less on mobile. This means you have to rewrite long and complicated content from the desktop site to make it shorter and more understandable. This also means that any secondary content (i.e. stuff that's not absolutely important for the user's current screen) should be differed to lower-level screens. 
+2.	Simpler, smaller content - Research shows that users read less and understand less on mobile. This means you have to rewrite long and complicated content from the desktop site to make it shorter and more understandable. This also means that any secondary content (i.e. stuff that's not absolutely important for the user's current screen) should be differed to lower-level screens. <br>
 
-3.	Simpler navigation menus - Menus can't have too many options. Tabbed menus usually contain 5 tabs at most.</font><br><br><hr>
+3.	Simpler navigation menus - Menus can't have too many options. Tabbed menus usually contain 5 tabs at most.</font><br><br>
+                              _______________________________________________________________________
 
 
 **<font color="yellow">(c) The elements of successful UX design</font>**
@@ -51,24 +52,25 @@ The elements of user mobile UX design address the main desires and concerns of o
 A Web App, on the other hand, are basically Internet-enabled apps that are accessible via the mobile device’s Web browser.
 They need not be downloaded onto the user’s mobile device in order to be accessed. The Safari browser is a good example of a mobile Web app.
 From the above definitions, native apps are ideal for the following reasons:<br>
-i.	They do not require connection to the Internet, to use them.<br>
-ii.	They are free to use, they do not require charges, or licenses.<br>
-iii.	They do not require periodic updates on the resident device.<br>
-iv.	There is no exposure to security risks or threats when using them.<br>
-v.	Native apps are often easier to operate, as they are developed to suit the taste of their local users.</font><br><br>
+ <ol type="i">
+<li>They do not require connection to the Internet, to use them.<br>
+<li>They are free to use, they do not require charges, or licenses.<br>
+<li>They do not require periodic updates on the resident device.<br>
+<li>There is no exposure to security risks or threats when using them.<br>
+<li>Native apps are often easier to operate, as they are developed to suit the taste of their local users.</font><br><br>
 
 
 **<font color="yellow">(e)	Pros and cons of native apps and web apps</font>**
 
 **_<font color="lightgreen">Advantages of Native Apps (pros)</font>_**
 
-Easier to operate: Since native apps work with the device’s built-in features, they are easier to work with and also perform faster on the device.<br>
+<font color="lightgreen">Easier to operate: Since native apps work with the device’s built-in features, they are easier to work with and also perform faster on the device.<br>
 
 Easier to download: Native apps get full support from the concerned app stores and marketplaces. Users can easily find and download apps of their choice from these stores.<br>
 
 Security assurance: Because these apps have to get the approval of the app store they are intended for, the user can be assured of complete safety and security of the app.<br>
 
-Native apps work out better for developers, who are provided the SDK and all other tools to create the app with much more ease.<br>
+Native apps work out better for developers, who are provided the SDK and all other tools to create the app with much more ease.</font><br>
 
 **_<font color="yellow">The loopholes of Native Apps (cons)</font>_**
 
