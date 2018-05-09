@@ -1,4 +1,4 @@
-<font color="yellow" size="30px"><center>WELCOME TO SITE KAKUNGULU</center></font><br>
+<font color="yellow" size="30px"><center>WELCOME TO SITE KAKUNGULU</center></font>
 
 <font color="orange" size="10px"><center>GROUP PRESENTATION</center></font>
 
