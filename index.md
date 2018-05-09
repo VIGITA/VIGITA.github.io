@@ -53,11 +53,13 @@ A Web App, on the other hand, are basically Internet-enabled apps that are acces
 They need not be downloaded onto the user’s mobile device in order to be accessed. The Safari browser is a good example of a mobile Web app.
 From the above definitions, native apps are ideal for the following reasons:<br>
  <ol type="i">
-<li>They do not require connection to the Internet, to use them.<br>
-<li>They are free to use, they do not require charges, or licenses.<br>
-<li>They do not require periodic updates on the resident device.<br>
-<li>There is no exposure to security risks or threats when using them.<br>
-<li>Native apps are often easier to operate, as they are developed to suit the taste of their local users.</ol></font><br><br>
+<li>They do not require connection to the Internet, to use them.</li><br>
+<li>They are free to use, they do not require charges, or licenses.</li><br>
+<li>They do not require periodic updates on the resident device.</li><br>
+<li>There is no exposure to security risks or threats when using them.</li><br>
+<li>Native apps are often easier to operate, as they are developed to suit the taste of their local users.</li>
+ </ol>
+</font><br><br>
 
 
 **<font color="yellow">(e)	Pros and cons of native apps and web apps</font>**
